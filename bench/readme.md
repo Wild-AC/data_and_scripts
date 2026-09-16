@@ -26,6 +26,7 @@ A C++ implementation of the FM-Index by Gottlieb, which was used in our benchmar
 ### ProteoMapper
 
 ProteoMapper (v1.6), last updated 3/3/2023, was downloaded from http://tppms.org/pm/.
+A backup copy exists at https://github.com/Wild-AC/ProteoMapper.
 
 ### PeptideMapper
 
