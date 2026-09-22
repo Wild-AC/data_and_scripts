@@ -2,9 +2,10 @@ This repository contains all FASTA input data and the bash scripts for Linux to 
 
 # Build the input data
 
-1) extract uniprot_sprot.fasta.gz (too large for GitHub otherwise)
+1) extract uniprot_sprot.fasta.gz and uniprot_sprot_X5.fasta.gz (too large for GitHub otherwise)
 ```
 gzip --decompress uniprot_sprot.fasta.gz   ## creates uniprot_sprot.fasta
+gzip --decompress uniprot_sprot_X5.fasta.gz   ## creates uniprot_sprot_X5.fasta
 ```
 
 2) run `make_shuffle_and_digest.sh`

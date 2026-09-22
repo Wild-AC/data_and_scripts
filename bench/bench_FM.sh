@@ -22,7 +22,7 @@ rm -rf log_fm_wBuild.txt
 rm -rf log_fm_loadIndex.txt
 rm -rf log_fm_loadIndex_backtracking.txt
 
-for index_type in wt fb64 fb ib
+for index_type in wt
 do
   for threads in 1 16
   do
