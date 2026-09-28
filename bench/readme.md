@@ -1,4 +1,4 @@
-# Bechmarks
+# Benchmarks
 
 Set up all required tools (see Requirements below)
 Run `bench_all.sh` (in a bash-like shell) to create the benchmark results for all tools.
